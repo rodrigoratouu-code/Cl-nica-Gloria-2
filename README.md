@@ -109,8 +109,8 @@
         
         .header.scrolled {
             box-shadow: var(--shadow-md);
-            background: rgba(255, 255, 255, 0.85);
-            backdrop-filter: blur(16px);
+            background: rgba(255, 255, 255, 0);
+            backdrop-filter: blur(19px);
         }
         
         .nav-container {
