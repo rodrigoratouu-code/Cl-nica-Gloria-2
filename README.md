@@ -103,7 +103,7 @@
             right: 0;
             z-index: 1000;
             background: rgba(255, 255, 255, 0);
-            backdrop-filter: none;
+            backdrop-filter: blur(18px);
             transition: all 0.3s cubic-bezier(0.4, 0, 0.2, 1);
         }
         
